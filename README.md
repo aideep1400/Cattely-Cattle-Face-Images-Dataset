@@ -12,7 +12,7 @@ Please note that the Cattle Face Images Dataset is intended for research and edu
 
 Citation:
 [An intelligence cattle re-identification system over transport by Siamese neural networks and YOLO
-Ivan.Bakhshayeshi,Mohsen Asadnia, Amin Beheshti,Eila Erfani, Stephan Elbourn and Firouzeh Taghikhah]
+Ivan.Bakhshayeshi, Mohsen Asadnia, Amin Beheshti,Eila Erfani, Stephan Elbourn and Firouzeh Taghikhah]
 
 Folder Structure:
 Cattle_1

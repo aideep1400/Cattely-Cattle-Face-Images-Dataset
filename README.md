@@ -10,9 +10,11 @@ Accompanying labels and metadata provide essential information such as cattle id
 We provide the Cattle Face Images Dataset on GitHub to encourage collaboration and facilitate research in machine vision, pattern recognition, and animal sciences. It aims to support the development of accurate systems for cattle identification, monitoring, and management.
 Please note that the Cattle Face Images Dataset is intended for research and educational purposes, and it is made available under an open license to foster knowledge sharing within the scientific community.
 
+A sample of lablled dataset for detection model aslo is provided.
+
 Citation:
 [An intelligence cattle re-identification system over transport by Siamese neural networks and YOLO
-Ivan.Bakhshayeshi, Mohsen Asadnia, Amin Beheshti,Eila Erfani, Stephan Elbourn and Firouzeh Rosa Taghikhah]
+Ivan Bakhshayeshi,Mohsen Asadnia,Amin Beheshti,Eila Erfani,Stephan Elbourn and Firouzeh Rosa Taghikhah]
 
 Folder Structure:
 Cattle_1
